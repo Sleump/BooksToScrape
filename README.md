@@ -19,3 +19,4 @@
  Improvements:
  1- Get a graphic interface
  2- Possibility to extract data for one or a few category only
+ 3- Possibility to choose what informations do you want instead of all the informations
